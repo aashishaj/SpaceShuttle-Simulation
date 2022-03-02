@@ -71,7 +71,7 @@ void frontscreendisp(void)
     drawBitmapText(150+50,250,0.0,"BY:");
     glColor3f(0.5,0,0.5);
     drawBitmapText(150+50,275,0.0,"Khatri Mrunal Mohan                 (USN:1MV15CS049)");
-    drawBitmapText(150+50,300,0.0,"Kiran M. Savalgi                       (USN:1MV16CS407)");
+    drawBitmapText(150+50,300,0.0,"Aashish Prakash                     (USN:1MV15CS002)");
     glColor3f(1,0.5,0);
     drawBitmapText(500+50,475,0.0,"PLEASE CLOSE THE WINDOW");
 
